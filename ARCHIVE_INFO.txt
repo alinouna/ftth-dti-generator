@@ -1,0 +1,6 @@
+archive        : dti-generator.zip
+algorithm      : WinZip AES-256 (AE-2), ZIP deflate
+sha256(archive): aaedfda98c5b793aec6a12ea9d594d128c892334929e39bab4ea5a5df8e64184
+files          : 7
+unpacked bytes : 40424
+password       : NOT stored here. Sent separately.
